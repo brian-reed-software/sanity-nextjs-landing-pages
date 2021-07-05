@@ -39,7 +39,7 @@ export default {
             value: 'https://github.com/B-c0des/sanity-nextjs-landing-pages',
             category: 'Code'
           },
-          {title: 'Frontend', value: 'https://brians-portfolio.netlify.app', category: 'apps'}
+          {title: 'Frontend', value: 'https://brian-reed.netlify.app/', category: 'apps'}
         ]
       }
     },
